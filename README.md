@@ -1,3 +1,40 @@
+
+
+
+
+
+
+![Str](https://github.com/user-attachments/assets/e2f4bb6d-a447-4c8f-968f-5f89a924fc0f)
+![Str2](https://github.com/user-attachments/assets/387ec834-9b7e-4c1d-ab10-78328742a61e)
+![Str1](https://github.com/user-attachments/assets/12dc21ef-7716-4c88-b571-7b611fe2d46f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Все скрипты одним файлом
 using System.Collections;
 using UnityEngine.UI;
