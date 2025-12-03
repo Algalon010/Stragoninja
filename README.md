@@ -1,4 +1,4 @@
-# Algalon010
+# Все скрипты одним файлом
 using System.Collections;
 using UnityEngine.UI;
 using System.Collections.Generic;
