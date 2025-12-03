@@ -1,10 +1,13 @@
 
-
-
-
-
-
+1) Начальный экран.
 ![Str](https://github.com/user-attachments/assets/e2f4bb6d-a447-4c8f-968f-5f89a924fc0f)
+
+
+3) Механика нарезания рыбы на строганину, отбитие нападения ворон.
+![33](https://github.com/user-attachments/assets/3721a3cb-efd1-4838-9a97-9b2d3cc0fb54)
+
+
+5) Меню игры.
 ![Str2](https://github.com/user-attachments/assets/387ec834-9b7e-4c1d-ab10-78328742a61e)
 
 
